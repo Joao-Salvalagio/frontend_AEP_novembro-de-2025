@@ -74,7 +74,6 @@ CREATE TABLE agendamentocoleta (
         REFERENCES cooperativa(id)
 );
 
-
 -- -----------------------------------------------------------------
 -- DML (Data Manipulation Language) - Inserção de Dados de Amostra
 -- -----------------------------------------------------------------
